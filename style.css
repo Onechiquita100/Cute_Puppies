@@ -70,6 +70,10 @@ thead tr td {
   color: white;
 }
 
+tbody tr td {
+  align-items: center;
+  align-content: center;
+}
 
 
 
